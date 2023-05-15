@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681368552 source:d:\io\lb6\lab6_zad_project\user.cpp
+	"User.h"
+
+1681369710 d:\io\lb6\lab6_zad_project\user.h
+	<string>
+	<iostream>
+
+1681369642 source:d:\io\lb6\lab6_zad_project\main.cpp
+	<iostream>
+	"System.h"
+
+1681369858 d:\io\lb6\lab6_zad_project\system.h
+	<vector>
+	"User.h"
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1682518600 source:g:\io\lb7\lab7_project\factorial.cpp
+	"Factorial.h"
+
+1682518548 g:\io\lb7\lab7_project\factorial.h
+
+1682518340 source:g:\io\lb7\lab7_project\bernouli.cpp
+	"Bernouli.h"
+
+1682518388 g:\io\lb7\lab7_project\bernouli.h
+	"Power.h"
+	"Newton.h"
+
+1682518546 g:\io\lb7\lab7_project\power.h
+
+1682519594 g:\io\lb7\lab7_project\newton.h
+	"Factorial.h"
+
+1682518388 source:g:\io\lb7\lab7_project\newton.cpp
+	"Newton.h"
+
+1682518568 source:g:\io\lb7\lab7_project\power.cpp
+	"Power.h"
+
+1682518110 source:g:\io\lb7\lab7_project\main.cpp
+	<iostream>
+	"Bernouli.h"
+

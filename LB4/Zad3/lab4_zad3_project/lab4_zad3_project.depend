@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1680101348 source:g:\io\lb4\zad3\lab4_zad3_project\bike.cpp
+	"Bike.h"
+
+1680101160 g:\io\lb4\zad3\lab4_zad3_project\bike.h
+	<iostream>
+	<string>
+
+1680101992 source:g:\io\lb4\zad3\lab4_zad3_project\main.cpp
+	<iostream>
+	"Bike.h"
+	"BikeRental.h"
+
+1680101582 g:\io\lb4\zad3\lab4_zad3_project\bikerental.h
+	<vector>
+	"Bike.h"
+
+1680102058 source:g:\io\lb4\zad3\lab4_zad3_project\bikerental.cpp
+	"BikeRental.h"
+

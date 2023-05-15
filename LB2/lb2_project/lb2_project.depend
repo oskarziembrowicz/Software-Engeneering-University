@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1678356388 source:c:\in퓓nieria oprogramowania\lb2\lb2_project\jamnik.cpp
+	"Jamnik.h"
+
+1678355924 c:\in퓓nieria oprogramowania\lb2\lb2_project\jamnik.h
+	"Pies.h"
+
+1678355924 c:\in퓓nieria oprogramowania\lb2\lb2_project\pies.h
+	"Ssak.h"
+
+1678357606 c:\in퓓nieria oprogramowania\lb2\lb2_project\ssak.h
+	<string>
+
+1678357002 source:c:\in퓓nieria oprogramowania\lb2\lb2_project\pies.cpp
+	"Pies.h"
+	<iostream>
+
+1678356986 source:c:\in퓓nieria oprogramowania\lb2\lb2_project\ssak.cpp
+	"Ssak.h"
+
+1678894599 source:c:\in퓓nieria oprogramowania\lb2\lb2_project\main.cpp
+	<iostream>
+	"Jamnik.h"
+

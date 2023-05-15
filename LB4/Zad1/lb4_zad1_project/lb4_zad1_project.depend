@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1679566272 source:d:\io\lb4\zad1\lb4_zad1_project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Bicycle.h"
+	"Person.h"
+
+1679566320 d:\io\lb4\zad1\lb4_zad1_project\bicycle.h
+	<iostream>
+	<string>
+
+1679566342 d:\io\lb4\zad1\lb4_zad1_project\person.h
+	<vector>
+	"Bicycle.h"
+
+1679565454 source:d:\io\lb4\zad1\lb4_zad1_project\bicycle.cpp
+	"Bicycle.h"
+
+1679566502 source:d:\io\lb4\zad1\lb4_zad1_project\person.cpp
+	"Person.h"
+
+1679565454 source:g:\io\lb4\zad1\lb4_zad1_project\bicycle.cpp
+	"Bicycle.h"
+
+1679566320 g:\io\lb4\zad1\lb4_zad1_project\bicycle.h
+	<iostream>
+	<string>
+
+1679566824 source:g:\io\lb4\zad1\lb4_zad1_project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Bicycle.h"
+	"Person.h"
+
+1679566342 g:\io\lb4\zad1\lb4_zad1_project\person.h
+	<vector>
+	"Bicycle.h"
+
+1679566502 source:g:\io\lb4\zad1\lb4_zad1_project\person.cpp
+	"Person.h"
+

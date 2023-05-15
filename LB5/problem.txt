@@ -1,0 +1,2 @@
+Mamy pracownię/biuro. Wyposażone jest ono w stanowiska pracy.
+Każde stanowisko pracy jest zależne od stojącego na nim komputera.

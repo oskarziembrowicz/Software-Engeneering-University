@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1680099888 source:g:\io\lb4\zad2\lab4_zad2_project\main.cpp
+	<iostream>
+	"Person.h"
+	"Store.h"
+
+1680095348 g:\io\lb4\zad2\lab4_zad2_project\person.h
+	<iostream>
+	<string>
+
+1680099708 g:\io\lb4\zad2\lab4_zad2_project\store.h
+	<vector>
+	"Person.h"
+
+1680100328 source:g:\io\lb4\zad2\lab4_zad2_project\person.cpp
+	"Person.h"
+
+1680100320 source:g:\io\lb4\zad2\lab4_zad2_project\store.cpp
+	"Store.h"
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1679333914 source:g:\io\lb3\lab3_zad2_project\car.cpp
+	"Car.h"
+
+1679333926 g:\io\lb3\lab3_zad2_project\car.h
+	<iostream>
+	<string>
+
+1679333852 source:g:\io\lb3\lab3_zad2_project\person.cpp
+	"Person.h"
+
+1679333828 g:\io\lb3\lab3_zad2_project\person.h
+	<iostream>
+	<string>
+
+1679333710 source:g:\io\lb3\lab3_zad2_project\main.cpp
+	<iostream>
+	<string>
+	"Person.h"
+	"Car.h"
+
+1679334066 source:d:\io\lb3\lab3_zad2_project\car.cpp
+	"Car.h"
+
+1679334052 d:\io\lb3\lab3_zad2_project\car.h
+	<iostream>
+	<string>
+
+1679334030 source:d:\io\lb3\lab3_zad2_project\main.cpp
+	<iostream>
+	<string>
+	"Person.h"
+	"Car.h"
+
+1679334054 d:\io\lb3\lab3_zad2_project\person.h
+	<iostream>
+	<string>
+
+1679334060 source:d:\io\lb3\lab3_zad2_project\person.cpp
+	"Person.h"
+

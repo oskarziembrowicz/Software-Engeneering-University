@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1679388933 source:c:\in퓓nieria oprogramowania\lb3\lab3_zad3_project\person.cpp
+	<iostream>
+	"Person.h"
+
+1679388392 c:\in퓓nieria oprogramowania\lb3\lab3_zad3_project\person.h
+	<string>
+
+1679388886 source:c:\in퓓nieria oprogramowania\lb3\lab3_zad3_project\main.cpp
+	<iostream>
+	<string>
+	"Person.h"
+	"Store.h"
+
+1679388874 c:\in퓓nieria oprogramowania\lb3\lab3_zad3_project\store.h
+	"Person.h"
+
+1679388896 source:c:\in퓓nieria oprogramowania\lb3\lab3_zad3_project\store.cpp
+	<iostream>
+	"Store.h"
+
+1679388972 source:g:\io\lb3\lab3_zad3_project\main.cpp
+	<iostream>
+	<string>
+	"Person.h"
+	"Store.h"
+
+1679388394 g:\io\lb3\lab3_zad3_project\person.h
+	<string>
+
+1679388876 g:\io\lb3\lab3_zad3_project\store.h
+	"Person.h"
+
+1679388934 source:g:\io\lb3\lab3_zad3_project\person.cpp
+	<iostream>
+	"Person.h"
+
+1679388898 source:g:\io\lb3\lab3_zad3_project\store.cpp
+	<iostream>
+	"Store.h"
+

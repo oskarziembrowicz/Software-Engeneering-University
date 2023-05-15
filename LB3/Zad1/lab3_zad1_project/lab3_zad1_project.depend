@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1678960607 source:c:\users\student\desktop\lb3\lab3_zad1_project\builder.cpp
+	"Builder.h"
+
+1678961653 c:\users\student\desktop\lb3\lab3_zad1_project\builder.h
+	<string>
+
+1678960599 source:c:\users\student\desktop\lb3\lab3_zad1_project\mechanic.cpp
+	"Mechanic.h"
+	"Builder.h"
+
+1678961450 c:\users\student\desktop\lb3\lab3_zad1_project\mechanic.h
+	"Builder.h"
+
+1678961631 source:c:\users\student\desktop\lb3\lab3_zad1_project\main.cpp
+	<iostream>
+	"Builder.h"
+	"Mechanic.h"
+

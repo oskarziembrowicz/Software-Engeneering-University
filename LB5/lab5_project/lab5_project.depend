@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1680182974 source:g:\io\lb5\lab5_project\computer.cpp
+	"Computer.h"
+
+1680182932 g:\io\lb5\lab5_project\computer.h
+	<iostream>
+	<string>
+
+1680183188 source:g:\io\lb5\lab5_project\main.cpp
+	<iostream>
+	"Workroom.h"
+
+1680182410 g:\io\lb5\lab5_project\workroom.h
+	<vector>
+	"Workstation.h"
+
+1680180496 g:\io\lb5\lab5_project\workstation.h
+	"Computer.h"
+
+1680182400 source:g:\io\lb5\lab5_project\workroom.cpp
+	"Workroom.h"
+
+1680182912 source:g:\io\lb5\lab5_project\workstation.cpp
+	"Workstation.h"
+

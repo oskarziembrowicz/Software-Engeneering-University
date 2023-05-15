@@ -1,0 +1,5 @@
+asocjacja skierowana, agregacja prosta, agregacja całkowita
+Wielokrotności
+
+Dla wszystkich projektów zrób diagram w jpg
+Stworzyć podfoldery na każdy projekt

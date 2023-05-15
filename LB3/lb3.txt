@@ -1,0 +1,5 @@
+1. W oparciu o diagram 1.15 oraz listing 1.1 wymodelować zależność między klasami
+Wytyczne do implementacji na stronie 22
+2. W oparciu o 1.18, 1.19, listing 1.3 wymodelowac asocjacje
+3. W oparciu o rys 1.12 i list 1.6 wymodelowac agregacje
+4. W oparciu o rys 1.22 agregacja całkowita
